@@ -1,0 +1,11 @@
+study_time,failures,absences,G1,G2,G3,parental_edu,internet,romantic
+2,0,6,15,14,15,3,yes,no
+3,0,4,12,13,14,2,yes,no
+2,3,10,10,10,10,1,no,yes
+1,0,2,14,15,15,4,yes,no
+3,1,0,13,14,15,3,no,yes
+2,2,12,9,10,9,2,yes,no
+1,0,3,13,14,14,3,yes,no
+4,0,1,16,17,18,4,yes,no
+3,1,6,11,12,13,2,no,yes
+2,2,8,10,11,11,2,no,yes
