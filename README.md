@@ -8,7 +8,7 @@ This project builds a machine learning model to predict students' final grades u
 
 ### 🔗 Open in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/student-performance-predictor/blob/main/student_performance_predictor.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/munvar021/Student-Performance-Predictor/blob/main/student_performance_predictor.ipynb)
 
 ---
 
